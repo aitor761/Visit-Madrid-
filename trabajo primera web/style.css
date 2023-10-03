@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{color: red;font-family:cursive;text-align: center;
+  }
+h2{color: red;font-family:cursive;text-align: center;}
+
+h3{color: red;font-family:cursive;text-align: left;}
+
+h4{color:blue;text-align:center}
+
+
+.from {text-align: center;}
+
+.Botones{
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  padding: 35px;
+
+  
+.Btn1{
+  display:inline-block;
+  color:#fff;
+background-color:red; 
+  padding:10px;
+  border:0px;
+    margin-right:110px
+    
+}
+  .Btn2{
+    display:inline-block;
+    color:#fff;
+background-color:red; 
+  padding:10px;
+  border:0px;
+       }
+  .home{
+    display:inline-block;
+  color:#fff;
+background-color:red; 
+  padding:10px;
+  border:0px;
+    margin-right:110px
+    
+    
+    .places{display:inline-block;
+    color:#fff;
+background-color:red; 
+  padding:10px;
+  border:0px;}
+
+  
